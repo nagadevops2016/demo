@@ -1,5 +1,9 @@
 This is module1-------version1
 
+<<<<<<< HEAD
 
 added some data------version2----dev1
 
+=======
+adding some data-----version2---dev2
+>>>>>>> 0d57c6eaf01bf0375f950d6d476d74977882c9d8
